@@ -73,8 +73,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 
-ERC 20 USDT Address:
-0x8ff6da4e431b87add31de7c7799cfc362428f4f4
+
 
 TRC20 usdt
-TVGDkQHxGodvs8UrreCG4nv14nnoaHrHFz
+TN8ZREGWGX51tGBkeuSwcMDuqtRYbrrykd
