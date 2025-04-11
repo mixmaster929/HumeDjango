@@ -77,3 +77,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 TRC20 usdt
 TN8ZREGWGX51tGBkeuSwcMDuqtRYbrrykd
+
+BEP20 usdt
+0x47b402eb5234a023a9374dd949b2c866272d8086
